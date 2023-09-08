@@ -1,0 +1,4 @@
+rootProject.name = 'XChainFungibleToken'
+include (
+	'x-chain-fungibletoken'
+)
